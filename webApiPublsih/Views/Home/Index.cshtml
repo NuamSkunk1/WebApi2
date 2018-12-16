@@ -1,0 +1,15 @@
+﻿@{
+    ViewBag.Title = "Index";
+}
+<script src=@Url.Content("~/Scripts/jquery-1.10.2.min.js")></script>
+<p id="showdate"></p>
+<script>
+    $(document).ready(function () {
+        $.ajax({
+            url: "/api/NuamApi",
+            type: "Get"
+        }).done(function (result) {
+            $("#showdate").html(result);
+        });
+    });
+</script>

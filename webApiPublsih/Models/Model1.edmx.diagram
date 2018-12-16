@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="16db494298894968ad6d26300d60251f" Name="Diagram1">
+        <EntityTypeShape EntityType="MainTstDbModel.Address" Width="1.5" PointX="13.5" PointY="41.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="MainTstDbModel.Address_Project1" Width="1.5" PointX="10.5" PointY="33.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="MainTstDbModel.BOMItem" Width="1.5" PointX="3" PointY="5" IsExpanded="true" />
+        <EntityTypeShape EntityType="MainTstDbModel.BOMProduct" Width="1.5" PointX="3" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="MainTstDbModel.City" Width="1.5" PointX="8.25" PointY="30.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="MainTstDbModel.Customer" Width="1.5" PointX="3.75" PointY="50.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="MainTstDbModel.Customer_Account_Status" Width="1.5" PointX="13.25" PointY="45.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="MainTstDbModel.Customer_Sign" Width="1.5" PointX="6" PointY="54.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="MainTstDbModel.Event" Width="1.5" PointX="0.75" PointY="8.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="MainTstDbModel.Form_Project4" Width="1.5" PointX="10.5" PointY="50.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="MainTstDbModel.Group_User" Width="1.5" PointX="3" PointY="27.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="MainTstDbModel.Hazine" Width="1.5" PointX="3" PointY="30.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="MainTstDbModel.Image_Project1" Width="1.5" PointX="10.5" PointY="36.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="MainTstDbModel.Image_Project10" Width="1.5" PointX="10.5" PointY="40.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="MainTstDbModel.Image_Project2" Width="1.5" PointX="10.5" PointY="44.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="MainTstDbModel.Image_Project3" Width="1.5" PointX="10.5" PointY="47.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="MainTstDbModel.Image_Project4" Width="1.5" PointX="10.5" PointY="54" IsExpanded="true" />
+        <EntityTypeShape EntityType="MainTstDbModel.Image_Project5" Width="1.5" PointX="10.5" PointY="57" IsExpanded="true" />
+        <EntityTypeShape EntityType="MainTstDbModel.Image_Project6" Width="1.5" PointX="10.5" PointY="60.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="MainTstDbModel.Image_Project7" Width="1.5" PointX="10.5" PointY="63.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="MainTstDbModel.Image_Project8" Width="1.5" PointX="10.5" PointY="66.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="MainTstDbModel.Image_Project9" Width="1.5" PointX="10.5" PointY="70" IsExpanded="true" />
+        <EntityTypeShape EntityType="MainTstDbModel.ListItem" Width="1.5" PointX="5.25" PointY="4.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="MainTstDbModel.Mail_Common" Width="1.5" PointX="3" PointY="33.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="MainTstDbModel.Mail_Common_Sign" Width="1.5" PointX="5.25" PointY="40.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="MainTstDbModel.Mail_Leave" Width="1.5" PointX="3" PointY="37" IsExpanded="true" />
+        <EntityTypeShape EntityType="MainTstDbModel.Mail_Mission" Width="1.5" PointX="3" PointY="40.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="MainTstDbModel.Message" Width="1.5" PointX="3" PointY="44.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="MainTstDbModel.Nahve_Tahvil" Width="1.5" PointX="3.75" PointY="55" IsExpanded="true" />
+        <EntityTypeShape EntityType="MainTstDbModel.Noe_Pardakht" Width="1.5" PointX="11" PointY="31.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="MainTstDbModel.Notification" Width="1.5" PointX="3" PointY="47.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="MainTstDbModel.Order" Width="1.5" PointX="6" PointY="43.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="MainTstDbModel.OrderType" Width="1.5" PointX="3.75" PointY="57.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="MainTstDbModel.Product" Width="1.5" PointX="3.75" PointY="59.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="MainTstDbModel.Product_Group" Width="1.5" PointX="1.5" PointY="59.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="MainTstDbModel.ProductGroup" Width="1.5" PointX="0.75" PointY="2.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="MainTstDbModel.Project1" Width="1.5" PointX="8.25" PointY="33.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="MainTstDbModel.Project10" Width="1.5" PointX="8.25" PointY="39.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="MainTstDbModel.Project2" Width="1.5" PointX="8.25" PointY="43.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="MainTstDbModel.Project3" Width="1.5" PointX="8.25" PointY="47.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="MainTstDbModel.Project4" Width="1.5" PointX="8.25" PointY="51.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="MainTstDbModel.Project5" Width="1.5" PointX="8.25" PointY="56.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="MainTstDbModel.Project6" Width="1.5" PointX="8.25" PointY="59.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="MainTstDbModel.Project7" Width="1.5" PointX="8.25" PointY="63.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="MainTstDbModel.Project8" Width="1.5" PointX="8.25" PointY="66.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="MainTstDbModel.Project9" Width="1.5" PointX="8.25" PointY="69.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="MainTstDbModel.Reminder" Width="1.5" PointX="3" PointY="86.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="MainTstDbModel.Senf" Width="1.5" PointX="1.5" PointY="51.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="MainTstDbModel.Setting" Width="1.5" PointX="2.75" PointY="8.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="MainTstDbModel.Status" Width="1.5" PointX="3.75" PointY="62.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="MainTstDbModel.Task" Width="1.5" PointX="3" PointY="89.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="MainTstDbModel.Telephone" Width="1.5" PointX="6" PointY="51.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="MainTstDbModel.TelephoneType" Width="1.5" PointX="3.75" PointY="68.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="MainTstDbModel.Unit" Width="1.5" PointX="0.75" PointY="5.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="MainTstDbModel.User" Width="1.5" PointX="0.75" PointY="41.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="MainTstDbModel.User_Account_Condition" Width="1.5" PointX="3" PointY="93.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="MainTstDbModel.User_Score" Width="1.5" PointX="3" PointY="96.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="MainTstDbModel.Zaman" Width="1.5" PointX="3.75" PointY="65.125" IsExpanded="true" />
+        <AssociationConnector Association="MainTstDbModel.FK_Address_City" ManuallyRouted="false" />
+        <AssociationConnector Association="MainTstDbModel.FK_Address_Customer" ManuallyRouted="false" />
+        <AssociationConnector Association="MainTstDbModel.FK_Address_Project1_City" ManuallyRouted="false" />
+        <AssociationConnector Association="MainTstDbModel.FK_Address_Project1_Project1" ManuallyRouted="false" />
+        <AssociationConnector Association="MainTstDbModel.FK_BOMItem_Unit" ManuallyRouted="false" />
+        <AssociationConnector Association="MainTstDbModel.FK_ListItem_BOMItem" ManuallyRouted="false" />
+        <AssociationConnector Association="MainTstDbModel.FK_ListItem_BOMItem1" ManuallyRouted="false" />
+        <AssociationConnector Association="MainTstDbModel.FK_BOMProduct_ProductGroup" ManuallyRouted="false" />
+        <AssociationConnector Association="MainTstDbModel.FK_BOMProduct_Unit" ManuallyRouted="false" />
+        <AssociationConnector Association="MainTstDbModel.FK_ListItem_BOMProduct" ManuallyRouted="false" />
+        <AssociationConnector Association="MainTstDbModel.FK_Customer_Customer" ManuallyRouted="false" />
+        <AssociationConnector Association="MainTstDbModel.FK_Customer_Senf" ManuallyRouted="false" />
+        <AssociationConnector Association="MainTstDbModel.FK_Customer_Sign_Customer" ManuallyRouted="false" />
+        <AssociationConnector Association="MainTstDbModel.FK_Order_Customer" ManuallyRouted="false" />
+        <AssociationConnector Association="MainTstDbModel.FK_Telephone_Customer" ManuallyRouted="false" />
+        <AssociationConnector Association="MainTstDbModel.FK_Customer_Account_Status_Noe_Pardakht" ManuallyRouted="false" />
+        <AssociationConnector Association="MainTstDbModel.FK_Customer_Account_Status_Order" ManuallyRouted="false" />
+        <AssociationConnector Association="MainTstDbModel.FK_Form_Project4_Project4" ManuallyRouted="false" />
+        <AssociationConnector Association="MainTstDbModel.FK_Group_User_User" ManuallyRouted="false" />
+        <AssociationConnector Association="MainTstDbModel.FK_User_Group_User" ManuallyRouted="false" />
+        <AssociationConnector Association="MainTstDbModel.FK_Hazine_User" ManuallyRouted="false" />
+        <AssociationConnector Association="MainTstDbModel.FK_Image_Project1_Project1" ManuallyRouted="false" />
+        <AssociationConnector Association="MainTstDbModel.FK_Image_Project10_Project10" ManuallyRouted="false" />
+        <AssociationConnector Association="MainTstDbModel.FK_Image_Project2_Project2" ManuallyRouted="false" />
+        <AssociationConnector Association="MainTstDbModel.FK_Image_Project3_Project3" ManuallyRouted="false" />
+        <AssociationConnector Association="MainTstDbModel.FK_Image_Project4_Project4" ManuallyRouted="false" />
+        <AssociationConnector Association="MainTstDbModel.FK_Image_Project5_Project5" ManuallyRouted="false" />
+        <AssociationConnector Association="MainTstDbModel.FK_Image_Project6_Project6" ManuallyRouted="false" />
+        <AssociationConnector Association="MainTstDbModel.FK_Image_Project7_Project7" ManuallyRouted="false" />
+        <AssociationConnector Association="MainTstDbModel.FK_Image_Project8_Project8" ManuallyRouted="false" />
+        <AssociationConnector Association="MainTstDbModel.FK_Image_Project9_Project9" ManuallyRouted="false" />
+        <AssociationConnector Association="MainTstDbModel.FK_Mail_Common_Sign_Mail_Common" ManuallyRouted="false" />
+        <AssociationConnector Association="MainTstDbModel.FK_Mail_Common_User" ManuallyRouted="false" />
+        <AssociationConnector Association="MainTstDbModel.FK_Mail_Common_User1" ManuallyRouted="false" />
+        <AssociationConnector Association="MainTstDbModel.FK_Mail_Common_Sign_User" ManuallyRouted="false" />
+        <AssociationConnector Association="MainTstDbModel.FK_Mail_Leave_User" ManuallyRouted="false" />
+        <AssociationConnector Association="MainTstDbModel.FK_Mail_Leave_User1" ManuallyRouted="false" />
+        <AssociationConnector Association="MainTstDbModel.FK_Mail_Mission_User" ManuallyRouted="false" />
+        <AssociationConnector Association="MainTstDbModel.FK_Mail_Mission_User1" ManuallyRouted="false" />
+        <AssociationConnector Association="MainTstDbModel.FK_Message_User" ManuallyRouted="false" />
+        <AssociationConnector Association="MainTstDbModel.FK_Message_User1" ManuallyRouted="false" />
+        <AssociationConnector Association="MainTstDbModel.FK_Order_Nahve_Tahvil" ManuallyRouted="false" />
+        <AssociationConnector Association="MainTstDbModel.FK_Notification_User" ManuallyRouted="false" />
+        <AssociationConnector Association="MainTstDbModel.FK_Order_DateTime" ManuallyRouted="false" />
+        <AssociationConnector Association="MainTstDbModel.FK_Order_OrderType" ManuallyRouted="false" />
+        <AssociationConnector Association="MainTstDbModel.FK_Order_Product" ManuallyRouted="false" />
+        <AssociationConnector Association="MainTstDbModel.FK_Order_Status" ManuallyRouted="false" />
+        <AssociationConnector Association="MainTstDbModel.FK_Order_User" ManuallyRouted="false" />
+        <AssociationConnector Association="MainTstDbModel.FK_Project1_Order" ManuallyRouted="false" />
+        <AssociationConnector Association="MainTstDbModel.FK_Project10_Order" ManuallyRouted="false" />
+        <AssociationConnector Association="MainTstDbModel.FK_Project2_Order" ManuallyRouted="false" />
+        <AssociationConnector Association="MainTstDbModel.FK_Project3_Order" ManuallyRouted="false" />
+        <AssociationConnector Association="MainTstDbModel.FK_Project4_Order" ManuallyRouted="false" />
+        <AssociationConnector Association="MainTstDbModel.FK_Project5_Order" ManuallyRouted="false" />
+        <AssociationConnector Association="MainTstDbModel.FK_Project6_Order" ManuallyRouted="false" />
+        <AssociationConnector Association="MainTstDbModel.FK_Project7_Order" ManuallyRouted="false" />
+        <AssociationConnector Association="MainTstDbModel.FK_Project8_Order" ManuallyRouted="false" />
+        <AssociationConnector Association="MainTstDbModel.FK_Project9_Order" ManuallyRouted="false" />
+        <AssociationConnector Association="MainTstDbModel.FK_Product_Product_Group" ManuallyRouted="false" />
+        <AssociationConnector Association="MainTstDbModel.FK_Reminder_User" ManuallyRouted="false" />
+        <AssociationConnector Association="MainTstDbModel.FK_Task_User" ManuallyRouted="false" />
+        <AssociationConnector Association="MainTstDbModel.FK_Task_User1" ManuallyRouted="false" />
+        <AssociationConnector Association="MainTstDbModel.FK_Telephone_TelephoneType" ManuallyRouted="false" />
+        <AssociationConnector Association="MainTstDbModel.FK_User_Account_Condition_User" ManuallyRouted="false" />
+        <AssociationConnector Association="MainTstDbModel.FK_User_Score_User" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
